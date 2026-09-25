@@ -1,3 +1,3 @@
 # The Perfect Notes Project 
 
-[jakeblackburn.dev](jakeblackburn.dev)
+[jakeblackburn.dev](https://jakeblackburn.dev)
